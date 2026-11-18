@@ -83,3 +83,4 @@ Project Python runs in local child processes with timeouts, logs, and contract c
 - [Development guide](docs/03_DEVELOPMENT_GUIDE.md): development setup and checks for each change.
 - [Contributing](CONTRIBUTING.md): contribution and documentation conventions.
 - [Member 2 collaboration handover](README_MEMBER_2.md): collaboration, review, correction, publication and acceptance.
+- [Member 3 G–I handover](docs/13_MEMBER_3_GHI.md): regression verification, benchmark and final submission.

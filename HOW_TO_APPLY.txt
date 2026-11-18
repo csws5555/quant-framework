@@ -1,0 +1,5 @@
+Member 3 G-I handover delta for quant-framework
+
+Extract the contents of this ZIP directly into the root of your existing quant-framework repository.
+The archive contains only new files and the three updated documentation files; it does not contain .git, .venv, node_modules, or the complete application.
+When prompted, replace README.md, docs/README.md, and tests/fixtures/README.md.
